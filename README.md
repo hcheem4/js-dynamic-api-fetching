@@ -20,4 +20,9 @@ handling, localStorage for data persistence, and JavaScript-based routing.
 `user.html`.
 2. On `user.html`, it fetches and displays posts for the stored user ID.
 3. Changing the input field dynamically fetches posts for a new user.
+---
+
+🔗 **You can view the live version of the project here:**  
+👉 [JavaScript Dynamic API 
+Fetching](https://hcheem4.github.io/js-dynamic-api-fetching/)
 
